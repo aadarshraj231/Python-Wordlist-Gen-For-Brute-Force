@@ -5,7 +5,7 @@ import os
 os.path.abspath(__file__)
 import sys
 
-print("********************Google Code In 2019 Python Based Wordlist Gen***************")
+print('******************Google Code In 2019 Python Based Wordlist Gen***************')
 print()
 
 
