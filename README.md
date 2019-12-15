@@ -15,3 +15,9 @@
       *  #BI= Bithday ,
       *  #NA=Nationality ,
       *  #PN=PN is Pet Name
+
+
+# This Is Terminal Record Of This Script How To Use
+https://asciinema.org/a/YWO7vON9aV9WoWTg4ahAs5vzt
+
+Thank You :)
