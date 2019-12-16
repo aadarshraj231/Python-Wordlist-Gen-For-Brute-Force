@@ -4,10 +4,13 @@
 import os
 os.path.abspath(__file__)
 import sys
+from utilitybelt import change_charset
 
 print('******************Google Code In 2019 Python Based Wordlist Gen***************')
 print()
 
+origspace="abcdefghijklmnopqrstuvwxyz"
+keyspace="abcd3fgh1jklmnopqr57uvwxyz"
 
 try:
            
@@ -21,10 +24,14 @@ try:
 
 	FN=input('Enter your first name: ' )
 	FN=FN.lower()
+	FN=change_charset(FN,origspace,keyspace)
 	LN=input('Enter your last name: ')
 	LN=LN.lower()
+	LN=change_charset(LN,origspace,keyspace)
 	SN=input('Enter your surname: ')
 	SN=SN.lower()
+	SN=change_charset(SN,origspace,keyspace)
+
 
 	while True:
 		try:
