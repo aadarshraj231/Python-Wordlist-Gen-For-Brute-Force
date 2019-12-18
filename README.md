@@ -8,13 +8,13 @@
 
 * Some String You Noticed Is :- 
 
-      *  FN IS First Name ,
-      *  LN=Last Name ,
-      *  #SN= Sur Name ,
-      *  #AG= Age ,
-      *  #BI= Bithday ,
-      *  #NA=Nationality ,
-      *  #PN=PN is Pet Name
+      *  first_name ,
+      *  last_name ,
+      *  #surname ,
+      *  #age ,
+      *  #dob=date of birth ,
+      *  #pet_name ,
+      
 
 
 # This Is Terminal Record Of This Script How To Use
